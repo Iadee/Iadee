@@ -6,8 +6,7 @@
 </p> <br>
 
 - 💻 I’m Full-Stack Developer
-- 🌱 I’m currently learning React js 
-- 🚀 I’m looking to collaborate on some projects
+- 🚀 I’m looking to collaborate on more open source projects
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
