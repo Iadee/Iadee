@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=,git,react,tailwind,html,css,js,node" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=,git,tailwind,html,css,js,nodejs" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=py,react,astro,sass,ts,netlify,nextjs" alt="skills planning to learn logos">
 </div>
