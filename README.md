@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=Iadee&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-- 🔭 I’m Full-Stack Developer
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on some projects
+- 💻 I’m Full-Stack Developer
+- 🌱 I’m currently learning React js 
+- 🚀 I’m looking to collaborate on some projects
 
