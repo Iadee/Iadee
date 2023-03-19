@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=py,mongodb,astro,sass,ts,netlify,nextjs" alt="skills planning to learn logos">
 </div>
 
-<h2 align="center">🔋Stats 🔋</h2>
+<h2 align="center">🔋Stats🔋</h2>
 <br>
 <p align=center>
   <div align=center>
